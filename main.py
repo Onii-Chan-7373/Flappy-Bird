@@ -1,4 +1,6 @@
-import pygame, sys, random
+import pygame
+import random
+import sys
 
 # Initializing game display and fps
 pygame.init()
